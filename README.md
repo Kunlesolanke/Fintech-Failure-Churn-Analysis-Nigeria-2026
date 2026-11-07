@@ -27,14 +27,14 @@ As an HR and Data Analyst, I did not just look at numbers. I also looked at the 
 - Location matters:* Edo had the highest failure rate at 31.1%, followed by Oyo at 29.0%. Kano had the lowest at 16.1%.
 - Worst months:* March (25 failed) and April (26 failed) had the highest failures. It improved in May and June.
 
-What this means - HR & People View*
+# What this means - HR & People View
 In HR, we say people do not leave a company because of one small mistake, they leave because they lose trust. It is the same with customers.
 
 When a transfer fails, especially in the evening when people need money urgently, the customer feels stressed and embarrassed. If no one explains what happened or refunds them quickly, they will move to another app. That is why churn is so high after failure.
 
 Complaints alone did not explain churn (13.2% churn with complaint vs 11.3% without). This shows many unhappy customers do not even complain, they just quietly leave. That is a big risk for the company.
 
-*Recommendations*
+# Recommendations
 - fix Transfers and USSD first:* These two have the highest failure. The tech team should check network and bank connection issues.
 - focus on Evening:* Add more system capacity and support staff in the evening when failures peak.
 - Act fast after a failure:* Send an automatic apology, explain the problem, and refund quickly. Follow up with the customer within 24 hours.
@@ -49,7 +49,8 @@ The company is not losing customers because customers do not like the product. I
 
 Good service is not just about fixing the system. It is about making the customer feel valued even when something goes wrong.
 
-*Tools Used:* Microsoft Excel (Data Cleaning, Formulas, Dashboard), Data Analysis
+# Tools Used:
+Microsoft Excel (Data Cleaning, Formulas, Dashboard), Data Analysis
 
 # files in this repo:
 `Fintech_Failure_Churn_Analysis_Nigeria_2026.xlsx` - Dirty data, Clean data, Dashboard
