@@ -51,8 +51,8 @@ Good service is not just about fixing the system. It is about making the custome
 
 # Tools Used:
 Microsoft Excel (Data Cleaning, Formulas, Dashboard), Data Analysis
-
+![Dashboard](IMG-20261107-WA1025.jpg)
 # files in this repo:
-`Fintech_Failure_Churn_Analysis_Nigeria_2026.xlsx` - Dirty data, Clean data, Dashboard
+`.xlsx` - Dirty data, Clean data, Dashboard
 - `dashboard_main.png` - Main dashboard
 - `dashboard_breakdown.png` - Monthly and State breakdown
