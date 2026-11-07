@@ -10,7 +10,7 @@
 This project looks at why customers stop using a fintech app in Nigeria. I analysed 500 transactions from 321 users between January and June 2026 to understand how failed transactions affect customer churn (when a customer leaves).
 
 As an HR and Data Analyst, I did not just look at numbers. I also looked at the people side - how a bad experience makes a customer lose trust and leave, and what the company can do to keep them.
-
+![Dashboard](IMG-20261106-WA0151.jpg)
 # what I did
 - Cleaned messy data in Excel: I fixed different date formats, removed Naira symbols ( ₦ ), corrected spelling like "TRANSFER" / "transfer" / "Fail" / "Failed", and filled missing values.
 - Created a clean dataset with 500 rows and built a dashboard that updates with formulas.
