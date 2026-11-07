@@ -26,7 +26,7 @@ As an HR and Data Analyst, I did not just look at numbers. I also looked at the 
 - USSD fails the most:* USSD had a 31.1% failure rate, higher than Android (24.5%) and iOS (16.1%).
 - Location matters:* Edo had the highest failure rate at 31.1%, followed by Oyo at 29.0%. Kano had the lowest at 16.1%.
 - Worst months:* March (25 failed) and April (26 failed) had the highest failures. It improved in May and June.
-
+![Dashboard](IMG-20261107-WA1025.jpg)
 # What this means - HR & People View
 In HR, we say people do not leave a company because of one small mistake, they leave because they lose trust. It is the same with customers.
 
@@ -44,7 +44,7 @@ Complaints alone did not explain churn (13.2% churn with complaint vs 11.3% with
 
 # Conclusion
 The main conclusion is simple: *Failed transactions are not just a technical problem, they are a people and trust problem.
-
+![Dashboard](IMG-20261107-WA1025.jpg)
 The company is not losing customers because customers do not like the product. It is losing them because the product fails when they need it most. If the company reduces failures, especially for Transfers, USSD, and evening transactions, and responds quickly when failure happens, churn will go down, trust will go up, and revenue will grow.
 
 Good service is not just about fixing the system. It is about making the customer feel valued even when something goes wrong.
