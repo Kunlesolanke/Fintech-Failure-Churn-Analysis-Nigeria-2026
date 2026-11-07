@@ -1,6 +1,6 @@
 # Fintech-Failure-Churn-Analysis-Nigeria-2026
 
-
+![Dashboard](IMG-20261106-WA8341.jpg)
 
 # Fintech Transaction Failure & Churn Analysis - Nigeria (Jan - Jun 2026)
 
